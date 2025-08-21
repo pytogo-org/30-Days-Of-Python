@@ -346,9 +346,8 @@ tests/
 
 ---
 
-## Resumé
+## Resumé FR
 
 Construire une API publique pour inventorier les sites et monuments du Togo puis d’Afrique. Tout le monde peut **soumettre** une fiche (image, URL, nom, titre, description, année/date, résumé, tags…). **Seuls les admins** peuvent **approuver**, **rejeter**, **supprimer/restaurer**. Inclure l’authentification par rôles, la pagination, la recherche et la documentation Swagger.
 
 Bonne chance !!!
-```
