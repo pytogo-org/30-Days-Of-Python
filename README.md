@@ -59,7 +59,7 @@ Each day contains a folder with learning material, exercises, and optionally som
 | 28  | API                     | [Day 28](./day28) | [View](https://drive.google.com/file/d/1aP_ROEfNvVKYvosVN2Fsmh7VPlHVJ7FX/view?usp=sharing) |
 | 29  | Building API            | [Day 29](./day29) | [View](https://drive.google.com/file/d/16WNe_LmVJu375MaAGKG-HVRAkH936FWb/view?usp=sharing) |
 | 30  | End of the Road         | [Day 30](./day30) | [View](https://drive.google.com/file/d/1e8pL03TfXPmlDbzAv94fWNlgtq5wzYMv/view?usp=sharing) |
-
+| FinalProject  | MVP         | [Day 30](Projects) | Construire une API publique pour inventorier les sites et monuments du Togo puis d’Afrique. Tout le monde peut soumettre une fiche (image, URL, nom, titre, description, année/date, résumé, tags…). Seuls les admins peuvent approuver, rejeter, supprimer/restaurer. Inclure l’authentification par rôles, la pagination, la recherche et la documentation Swagger. |
 
 ---
 
